@@ -1,4 +1,5 @@
 Aplicación de la metodología AHP
+**El resultado me sale siempre igual, entonces hay algo mas que se debe cambiar, pero igual lo subo, quizás le ayude a alguién.**:
 
 Aquí agrego una documento-guía que describe paso a paso la arquitectura, el flujo de datos y la lógica de tu app AHP, así como recomendaciones sobre qué hace cada parte y qué debes revisar o completar para que la metodología quede implementada “al 100 %”:
 
