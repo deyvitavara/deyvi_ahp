@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/641437fd-f38d-4850-aa5c-e00e7af649b1)# deyvi_ahp
 Aplicación de la metodología AHP
 
 Aquí agrego una documento-guía que describe paso a paso la arquitectura, el flujo de datos y la lógica de tu app AHP, así como recomendaciones sobre qué hace cada parte y qué debes revisar o completar para que la metodología quede implementada “al 100 %”:
